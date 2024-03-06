@@ -1,7 +1,7 @@
 # Django-Sign-Up-and-login-with-confirmation-Email
 using django
 
-
+Go To Link -- https://www.geeksforgeeks.org/django-sign-up-and-login-with-confirmation-email-python/?ref=lbp
 
 To create a virtual environment for your Django project, you can use virtualenv or venv (if you are using Python 3.3 or newer). Here's how you can do it using venv:
 
